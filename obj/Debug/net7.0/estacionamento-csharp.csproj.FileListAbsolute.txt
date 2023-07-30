@@ -1,0 +1,15 @@
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\10-projeto-estacionamento\estacionamento-csharp\bin\Debug\net7.0\estacionamento-csharp.exe
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\10-projeto-estacionamento\estacionamento-csharp\bin\Debug\net7.0\estacionamento-csharp.deps.json
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\10-projeto-estacionamento\estacionamento-csharp\bin\Debug\net7.0\estacionamento-csharp.runtimeconfig.json
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\10-projeto-estacionamento\estacionamento-csharp\bin\Debug\net7.0\estacionamento-csharp.dll
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\10-projeto-estacionamento\estacionamento-csharp\bin\Debug\net7.0\estacionamento-csharp.pdb
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\10-projeto-estacionamento\estacionamento-csharp\obj\Debug\net7.0\estacionamento-csharp.csproj.AssemblyReference.cache
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\10-projeto-estacionamento\estacionamento-csharp\obj\Debug\net7.0\estacionamento-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\10-projeto-estacionamento\estacionamento-csharp\obj\Debug\net7.0\estacionamento-csharp.AssemblyInfoInputs.cache
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\10-projeto-estacionamento\estacionamento-csharp\obj\Debug\net7.0\estacionamento-csharp.AssemblyInfo.cs
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\10-projeto-estacionamento\estacionamento-csharp\obj\Debug\net7.0\estacionamento-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\10-projeto-estacionamento\estacionamento-csharp\obj\Debug\net7.0\estacionamento-csharp.dll
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\10-projeto-estacionamento\estacionamento-csharp\obj\Debug\net7.0\refint\estacionamento-csharp.dll
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\10-projeto-estacionamento\estacionamento-csharp\obj\Debug\net7.0\estacionamento-csharp.pdb
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\10-projeto-estacionamento\estacionamento-csharp\obj\Debug\net7.0\estacionamento-csharp.genruntimeconfig.cache
+C:\Users\Cleber\Desktop\FORMACAO_PROGRAMACAO\2023\DOT-NET-C#\10-projeto-estacionamento\estacionamento-csharp\obj\Debug\net7.0\ref\estacionamento-csharp.dll
